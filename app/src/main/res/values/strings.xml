@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">开源中国Local</string>
+    <string name="action_settings">设置</string>
+    <string name="action_search">搜索</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+</resources>
